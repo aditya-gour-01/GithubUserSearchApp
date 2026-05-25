@@ -4,6 +4,9 @@ A mini project built using **TypeScript, HTML, CSS, and GitHub API** that allows
 
 ---
 
+<img width="1764" height="984" alt="image" src="https://github.com/user-attachments/assets/8b37dc2b-511c-4811-83cf-15c6b432d5f4" />
+
+
 # 📌 Project Overview
 
 This application fetches GitHub user data and displays it in a card-based UI. It supports:
