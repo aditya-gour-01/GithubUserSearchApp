@@ -295,6 +295,9 @@ This project demonstrates a complete workflow of building a real-world frontend 
 - Clone this repo into your local
 - Make sure the tsconfig(configuration file) of typescript is configured correctly with input and output directories.
 - Open code editor and in terminal run this command **tsc -w** to compile the typescript code into JS in watch mode so if any changes made will reflect real time and at times shows the error too if any.
-- Once corresponding JS file is generated, click Go-Live at bottom of VS code or start the server and listen to localhost this will have the application loaded upfront and if you dont see anything here, comment out the line in the generated JS file where exports is used at top of file.
+- Once corresponding JS file is generated, click Go-Live at bottom of VS code or start the server and listen to localhost this will have the application loaded upfront and if you dont see anything here, comment out the line in the generated JS file where exports is used at top of file, adding screeshot below for your reference.
 
 ---
+
+<img width="958" height="170" alt="image" src="https://github.com/user-attachments/assets/210a8035-e01d-4f6a-aeff-2e3437e471da" />
+
